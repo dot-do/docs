@@ -1,0 +1,7 @@
+# `user`
+
+```ts
+type User = {
+
+}
+```
