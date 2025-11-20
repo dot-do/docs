@@ -15,4 +15,5 @@
 ```ts
 const isColor = await ai.is`typescript a color?`
 ```
+
 ## `write`
